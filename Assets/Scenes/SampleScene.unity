@@ -10941,15 +10941,15 @@ MonoBehaviour:
     - 9
     - 9.5
     forwardSpeeds:
-    - 6
-    - 7
-    - 8.5
-    - 10
-    - 12
-    - 14
-    - 16.5
-    - 19
-    - 22
+    - 8
+    - 11
+    - 13.5
+    - 16
+    - 18
+    - 19.5
+    - 21
+    - 23
+    - 24.5
     - 26
     baseAcceleration: 22
     specialUpgradeAcceleration: 16
@@ -11128,7 +11128,7 @@ MonoBehaviour:
   endCardVictoryLogo: {fileID: 2800000, guid: b96387e66b637114a9e207ba5d3b1975, type: 3}
   endCardPlayNowImage: {fileID: 2800000, guid: a2bdd2458453d084f9d08df8ce53fce0, type: 3}
   endCardTapHand: {fileID: 2800000, guid: 276f1153ed65550498d0f9e41fb274d4, type: 3}
-  endCardStoreUrl:
+  endCardStoreUrl: 
   audioPresentation:
     audioEnabled: 1
     hapticsEnabled: 1
